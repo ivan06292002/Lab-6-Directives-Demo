@@ -1,0 +1,42 @@
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.green {
+  color: red;
+}
+
+.pink {
+  color: blue;
+}
+
+.blue {
+  color: blue;
+}
+
+.isItalic {
+  font-style: italic;
+}
+
+.isBold {
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 30px;
+}
